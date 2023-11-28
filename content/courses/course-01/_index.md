@@ -1,8 +1,10 @@
 ---
-title: Welcome
+title: Welcome Course
 type: docs
 prev: /
-next: docs/folder/
+next: courses/course-01/step-01
+sidebar:
+  open: true
 ---
 
 Welcome to Farabi Labs
@@ -22,4 +24,3 @@ This course is designed to give you a brief introduction to how we operate and h
 ## Attending
 
 etc...
-
