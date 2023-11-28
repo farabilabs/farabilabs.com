@@ -57,7 +57,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
     logo:
       path: images/logo-sq.png
       link: /
