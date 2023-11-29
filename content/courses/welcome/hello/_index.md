@@ -3,6 +3,7 @@ title: Say Hello
 type: docs
 sidebar:
   open: true
+prev: courses/welcome/register
 ---
 
 Welcome to Farabi Labs
