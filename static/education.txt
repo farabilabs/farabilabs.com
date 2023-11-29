@@ -1,0 +1,66 @@
+what slows learning?
+
+- uncertainty (wrt. trust, goal, path, approach, etc)
+- discomfort (wrt. confusion, opp cost, physio, etc)
+- fear of shame (wrt. peers, leaders, outsiders, etc)
+- lack of measurable progress (wrt. my values, on my own terms)
+- lack of social accountability (wrt. belonging, reciprocity, etc)
+- lack of motivating frame (wrt. my purpose, my mission)
+
+effective design principles
+
+- insist on authentic student-teacher relationships
+- strive for a dynamic, emergent curriculum
+- deploy evidence-based learning and performance science
+- build processes to safely reflect on performance in the tribe
+- create space for students to explore failing towards success
+- engage industry and the technical community as peers and  mentors
+- design for diversity of mental models and psychological safety
+- support the mind and the body
+
+implementation
+
+- mix of individual, paired and group work
+- practical, industry-recognized learning targets
+- multi-level learning tribe (ala Montessori)
+- low-floor, high-ceiling challenges (ala Jo Boaler)
+- hourly touchpoints, daily deliverables, weekly projects
+- expert facilitation for organized emotional release
+- integrated diet and exercise regimes
+
+expected outcomes
+
+- software literacy: recognizing, reading and understanding small programs
+- computational thinking: problem solving through reasoning about computation
+- professional growth: "career exposure", network navigation skills
+- personal growth: metacognitive skills, self awareness, empathy
+
+principles of design
+
+Recorded lessons are convenient to consume and scalable across large numbers of instructors
+Lessons are delivered in modes that increase the likelihood of learn-recall symmetry (ie. a lesson about having difficult conversations is practiced as one-on-one conversations)
+The experience is intense yet sustainable for experienced instructors
+
+session 1: how do we cooperate?
+
+An African proverb reminds us: “If you want to go fast, go alone. If you want to go far, go together.”  Students who are able to cooperate increase their rate of learning and their sense of psychological safety.  By supporting deep, cooperative relationships among students we help them overcome their greatest challenges. This session explores the possibilities of cooperative behavior among students
+
+session 2: how do we compute?
+
+Computational thinking is a strategy applied as widely as literacy while machine simulation is a mental tactic used when coding.  Investigating the tools and techniques used to reasoning about computation provides inspiration for our best lessons and rich opportunities for discussion with students as they learn to think in new ways. This session enables instructors to develop an intuition for computational thinking and learning
+
+session 3: how do we confuse?
+
+One of the most challenging aspects of effective teaching is leading students through moments of profound but subtle disorientation.  Lessons from peer instruction, group dynamics and complex systems provide refreshing perspectives on how to help students get unstuck without compromising self esteem. This session enables instructors to appreciate and guide productive student thinking.
+
+session 4: how do we learn?
+
+Educational experiences modeled after patterns of the industrial revolution have typically failed to teach students how to reflect on their learning experience, improve their performance and gain meaningful insight into high performance learning.  Modern investigations into learning have greatly improved our understanding. This session develops instructor awareness of the psychology and neurology of learning.
+
+session 5: how do we feel?
+
+Understanding the student’s emotional experience is the key to unlocking their learning potential.  Decades of clinical therapy and psychological research provide a language with which to engage and encourage students to explore their reaction to learning, confusion, belonging and criticism. This session enables instructors to connect with their students.
+
+session 6: how do we grow?
+
+Our lived experience is isolated and lonely, often made more difficult by parents and partners who engage with us in unproductive ways.  Many of us live on the rough seas of shame and blame, occasionally crashing into horrifying moments of introspection without having effective tools to recover and regain our bearings. This session enables instructors to help students grow in new and profound ways.

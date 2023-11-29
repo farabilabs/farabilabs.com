@@ -1,5 +1,8 @@
 ---
 title: Courses
+layout: course-toc
+sidebar:
+  open: false
 ---
 
 Taking courses is easy:

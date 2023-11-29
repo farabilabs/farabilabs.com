@@ -1,0 +1,126 @@
+courses:
+  - title: 'Together We Grow: Harnessing Community Power in Learning'
+    audience: 'Young adults and students (18-25 years)'
+    summary: 'Designed for young adults, this track emphasizes the importance of social accountability in learning. It explores how peer support, community engagement, and collaborative learning can significantly enhance the learning experience and outcomes.'
+    tags:
+      -  #SocialAccountability
+      -  #PeerSupport
+      -  #CollaborativeLearning
+    outline:
+      - 'Warm up: The Role of Community in Learning'
+      - 'Building and Leveraging Peer Networks'
+      - 'Collaborative Projects and Group Learning'
+      - 'Nurturing a Supportive Learning Environment'
+      - 'Cool down: Creating Your Learning Community'
+    assessment:
+      - 'How does social accountability enhance learning?'
+      - 'Outline the steps to build a supportive peer learning network.'
+      - 'Propose an idea for a collaborative learning project.'
+    weight: 5
+    short: 'community-learning-power'
+    splash_image: 'community-learning-power.png'
+
+  - title: 'Navigating the Fog: Understanding Uncertainty in Learning'
+    audience: 'Adults (18-30 years), early career professionals'
+    summary: 'This course explores the impact of uncertainty on learning, particularly in the context of career development. Participants will discover strategies to embrace uncertainty and turn it into a stepping stone for growth.'
+    tags:
+      -  #Uncertainty
+      -  #CareerGrowth
+      -  #Adaptability
+    outline:
+      - 'Warm up: Introduction to Uncertainty'
+      - 'Recognizing Uncertainty in Learning'
+      - 'Strategies for Embracing Uncertainty'
+      - 'Case Studies: Success in the Midst of Uncertainty'
+      - 'Cool down: Personal Uncertainty Plan'
+    assessment:
+      - 'How does uncertainty affect learning and decision-making?'
+      - 'What are three strategies to manage uncertainty in learning?'
+      - 'Create a personal plan to embrace uncertainty in your career.'
+    weight: 6
+    short: 'navigating-uncertainty'
+    splash_image: 'navigating-uncertainty.png'
+
+  - title: 'Comfort in Discomfort: Learning Through Challenges'
+    audience: 'Mid-career professionals (30-50 years)'
+    summary: 'This track is designed for mid-career professionals facing discomfort due to evolving tech landscapes. It addresses the physiological and psychological aspects of discomfort in learning, offering practical tools to transform discomfort into a powerful learning ally.'
+    tags:
+      -  #Discomfort
+      -  #Resilience
+      -  #MidCareer
+    outline:
+      - 'Warm up: Identifying Discomfort in Learning'
+      - 'The Psychology of Learning Discomfort'
+      - 'Physical Wellness and Learning'
+      - 'Techniques to Transform Discomfort'
+      - 'Cool down: Personal Resilience Plan'
+    assessment:
+      - 'How does discomfort manifest in learning, both psychologically and physically?'
+      - 'Describe a technique to transform discomfort into a learning tool.'
+      - 'Develop a personal plan to manage discomfort in your professional learning journey.'
+    weight: 7
+    short: 'overcoming-discomfort'
+    splash_image: 'overcoming-discomfort.png'
+
+  - title: 'Measuring Up: Mastering Progress in Learning'
+    audience: 'Professionals in transition (35-55 years)'
+    summary: 'This course focuses on the challenges of recognizing and measuring progress in learning, especially for those undergoing career transitions or acquiring new skills later in life. It combines cognitive science and practical tools to track and celebrate learning milestones.'
+    tags:
+      -  #MeasurableProgress
+      -  #CareerTransition
+      -  #SelfAssessment
+    outline:
+      - 'Warm up: The Importance of Measuring Progress'
+      - 'Tools for Tracking Learning Progress'
+      - 'Aligning Learning Goals with Personal Values'
+      - 'Celebrating Milestones and Adjusting Goals'
+      - 'Cool down: Personal Progress Measurement Plan'
+    assessment:
+      - 'Why is measuring progress crucial in adult learning?'
+      - 'Describe a tool or method for tracking learning progress.'
+      - 'Draft a personal plan aligning your learning goals with your values.'
+    weight: 7
+    short: 'progress-measurement-mastery'
+    splash_image: 'progress-measurement-mastery.png'
+
+  - title: 'Shattering Shame: Building Confidence in Learning'
+    audience: 'Senior professionals and leaders (40-60 years)'
+    summary: 'Tailored for experienced professionals, this course delves into the fear of shame that often accompanies learning new skills at advanced career stages. It offers insights and strategies to overcome this fear, fostering a culture of continuous learning and leadership.'
+    tags:
+      -  #FearOfShame
+      -  #Leadership
+      -  #ContinuousLearning
+    outline:
+      - 'Warm up: Understanding the Fear of Shame'
+      - 'The Impact of Shame in Adult Learning'
+      - 'Leadership and Vulnerability in Learning'
+      - 'Strategies to Overcome the Fear of Shame'
+      - 'Cool down: Personal Action Plan for Leadership'
+    assessment:
+      - 'How does the fear of shame affect learning and leadership?'
+      - 'Discuss the role of vulnerability in overcoming the fear of shame.'
+      - 'Create a plan to foster a shame-free learning environment in your organization.'
+    weight: 8
+    short: 'shattering-shame'
+    splash_image: 'shattering-shame.png'
+
+  - title: 'The Why Factor: Fueling Learning with Purpose'
+    audience: 'Senior professionals and retirees (55-80 years)'
+    summary: 'This course is for those seeking to rekindle their passion for learning later in life. It focuses on finding and defining a personal motivating frame for learning, blending psychological insights with practical exercises to reignite the joy and purpose in learning.'
+    tags:
+      -  #MotivatingFrame
+      -  #LifelongLearning
+      -  #PurposeDriven
+    outline:
+      - 'Warm up: Understanding Personal Motivation'
+      - 'Rediscovering Passion and Purpose in Learning'
+      - 'Setting Purpose-Driven Learning Goals'
+      - 'Staying Motivated and Overcoming Setbacks'
+      - 'Cool down: Crafting Your Personal Learning Mission'
+    assessment:
+      - 'What role does personal motivation play in lifelong learning?'
+      - 'Discuss how to rediscover passion in learning.'
+      - 'Develop a personal learning mission statement.'
+    weight: 6
+    short: 'finding-your-why'
+    splash_image: 'finding-your-why.png'

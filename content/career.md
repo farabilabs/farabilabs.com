@@ -1,10 +1,13 @@
 ---
-title: Career
-type: doc
+type: docs
 toc: false
+sidebar:
+  hide: true
+next: false
+prev: false
 ---
 
-## Welcome to your new career!
+# Career
 
 Welcome to the Careers page of our vibrant tech community! We believe that a career in technology is not just a job, but a journey of continuous learning, innovation, and growth. Our community is more than just a platform; it's a gateway to a world of opportunities where your passion for technology can evolve into a fulfilling and dynamic career.
 

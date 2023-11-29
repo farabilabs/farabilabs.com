@@ -1,7 +1,10 @@
 ---
-title: FAQ
-type: about
-toc: false
+layout: faq
+toc: true
+sidebar:
+  hide: true
+next: false
+prev: false
 ---
 
-Frequently Asked Questions
+this page loads the custom layout template

@@ -1,10 +1,13 @@
 ---
-title: About Us
-type: about
+type: docs
 toc: false
+sidebar:
+  hide: true
+next: false
+prev: false
 ---
 
-## We are **Farabi Labs**
+# We are **Farabi Labs**
 
 1. Fostering a bilingual tech revolution by bridging language and resource gaps.
 2. Empowering all ages to embrace and lead the ever-evolving world of technology.

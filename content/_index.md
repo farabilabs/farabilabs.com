@@ -19,9 +19,7 @@ Let's embark on this exciting journey together – معًا نحو مستقبل 
   {{< card link="about" title="About Us" icon="user" >}}
   {{< card link="courses" title="Courses" icon="beaker" >}}
   {{< card link="events" title="Events" icon="calendar" >}}
-  {{< card link="projects" title="Projects" icon="briefcase" >}}
   {{< card link="career" title="Career" icon="currency-dollar" >}}
-  {{< card link="blog" title="Blog" icon="pencil-alt" >}}
 {{< /cards >}}
 
 ## Our Mission
